@@ -5,18 +5,6 @@ Personal portfolio website showcasing my projects, skills, and experience.
 A modern, animated, fully responsive **bento-grid** portfolio built with vanilla
 **HTML, CSS and JavaScript**.
 
-## ✨ Features
-
-- **Bento-grid layout** — a modular dashboard of tiles in varying sizes
-- **Full-viewport hero** with a framed portrait and a typing effect, on an animated
-  **constellation** background (drifting blue dots with connecting lines)
-- **Preloader / splash screen** with a counting percentage and rotating status words
-- Centered floating navigation with **scroll-spy** active highlighting + mobile hamburger menu
-- Scroll-reveal "pop" animations and a scroll-progress bar
-- A **My Journey** section (education + experience) and an **Integrations & APIs** feature tile
-- Project cards that link straight to their GitHub repos
-- Fully responsive (4 → 2 → 1 columns) and `prefers-reduced-motion` friendly
-
 ## 🧩 Sections
 
 Hero → About → Skills & Tech → Integrations & APIs → My Journey → Selected Work → Contact
