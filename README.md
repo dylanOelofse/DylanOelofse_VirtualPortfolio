@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing my projects, skills, and experience.
 
-A modern, animated, fully responsive **bento-grid** portfolio built with vanilla
+A modern fully responsive portfolio built with vanilla
 **HTML, CSS and JavaScript**.
 
 ## 🧩 Sections
