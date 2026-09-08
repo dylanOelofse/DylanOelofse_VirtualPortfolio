@@ -40,6 +40,8 @@ Hero → About → Skills & Tech → Integrations & APIs → My Journey → Sele
 │   └── main.js       # Interactions (preloader, nav, reveal, typing, constellation)
 └── Images/
     ├── DylanOelofse.jpg   # Hero portrait
+    ├── Sage200.png        # Sage 200 Quote Integration project
+    ├── SageIntacct.png    # Sage Intacct Quote Integration project
     ├── Cisco.jpg          # Cisco Network Design project
     ├── CV_Portfolio.jpg   # Virtual Portfolio project
     └── MovieSite.jpg      # Movie Site project
