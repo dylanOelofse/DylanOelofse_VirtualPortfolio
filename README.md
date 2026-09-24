@@ -13,7 +13,7 @@ Hero → About → Skills & Tech → Integrations & APIs → My Journey → Sele
 
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Backend:** C# / .NET, ASP.NET, REST API, XML API
-- **Databases:** SQL Server, MongoDB
+- **Databases:** SQL Server
 - **Cloud Platforms:** Netlify, Render, Vercel
 - **Integrations:** Sage 200, Sage Intacct, REST & XML APIs
 
